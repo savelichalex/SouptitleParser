@@ -8,6 +8,7 @@
 
 /* Begin PBXFileReference section */
 		845EAAD01D8E94E400DBC3D5 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		845EAAD11D8EA6B000DBC3D5 /* test.srt */ = {isa = PBXFileReference; lastKnownFileType = text; path = test.srt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -15,6 +16,7 @@
 			isa = PBXGroup;
 			children = (
 				845EAAD01D8E94E400DBC3D5 /* main.cpp */,
+				845EAAD11D8EA6B000DBC3D5 /* test.srt */,
 			);
 			sourceTree = "<group>";
 		};

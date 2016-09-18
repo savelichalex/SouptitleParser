@@ -1,3 +1,3 @@
 ### Parser for subtitles
 
-Write in on c++, because that should work both on OSX, ios ans android as well.
+Write it on c++, because that should work both on OSX, iOS and android as well.

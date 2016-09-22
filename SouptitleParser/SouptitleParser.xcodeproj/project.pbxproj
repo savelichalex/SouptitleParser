@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXFileReference section */
+		845BF2E41D9456A800693B5F /* SouptitleParser.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = SouptitleParser.cpp; sourceTree = "<group>"; };
+		845BF2E51D9456A800693B5F /* SouptitleParser.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SouptitleParser.h; sourceTree = "<group>"; };
 		845EAAD01D8E94E400DBC3D5 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		845EAAD11D8EA6B000DBC3D5 /* test.srt */ = {isa = PBXFileReference; lastKnownFileType = text; path = test.srt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -15,6 +17,8 @@
 		845EAAC91D8E94D800DBC3D5 = {
 			isa = PBXGroup;
 			children = (
+				845BF2E41D9456A800693B5F /* SouptitleParser.cpp */,
+				845BF2E51D9456A800693B5F /* SouptitleParser.h */,
 				845EAAD01D8E94E400DBC3D5 /* main.cpp */,
 				845EAAD11D8EA6B000DBC3D5 /* test.srt */,
 			);
